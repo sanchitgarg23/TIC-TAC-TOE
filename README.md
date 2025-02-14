@@ -20,7 +20,9 @@ This is my first project where I created a simple Tic-Tac-Toe game using HTML, C
 1. Click on any empty box to place your mark (X or O).
 2. The game will check for a winner after each move.
 3. If a winner is found, a message will display the winner.
-4. You can reset the game at any time by clicking the "Reset Game" button.
+4. if no winner is found , a message will be display It is a draw :( so sad
+5. You can reset the game at any time by clicking the "Reset Game" button.
+   
 
 ## Getting Started
 
